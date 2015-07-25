@@ -2,6 +2,7 @@ Small repository used to test scala and spark with S3
 
 to get started with your fork in linux:
 add public key in github ~/.ssh/id_rsa
+
 add following environmental variables
 export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
