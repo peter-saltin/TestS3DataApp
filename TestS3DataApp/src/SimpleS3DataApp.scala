@@ -5,7 +5,7 @@ import org.apache.spark.SparkConf
 /**
  * @author Peter
  */
-object SimpleS3app {
+object SimpleS3DataApp {
 
   def main(args: Array[String]) {
 
