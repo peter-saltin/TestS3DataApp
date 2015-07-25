@@ -1,0 +1,1 @@
+Small repository used to test scala and spark with S3
